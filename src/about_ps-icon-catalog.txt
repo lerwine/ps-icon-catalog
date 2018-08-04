@@ -1,0 +1,17 @@
+﻿TOPIC
+    about_ps-icon-catalog
+
+SHORT DESCRIPTION
+    Extract icons and create icon catalog.
+
+LONG DESCRIPTION
+    Provides functions for extracting icons from assemblies and build an icon catalog.
+
+EXPORTED COMMANDS
+    Following is a list of commands exported by this module:
+
+    Test-CsName
+        Ensures that a name is compatible C-Sharp style name.
+
+SEE ALSO
+	Test-CsName
